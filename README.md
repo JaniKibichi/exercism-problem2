@@ -1,4 +1,4 @@
-# Sum Of Multiples
+# Sum Of Multiples [![Build Status](https://travis-ci.org/JaniKibichi/exercism-problem2.svg?branch=master)](https://travis-ci.org/JaniKibichi/exercism-problem2)
 #### From [exercism.io](https://exercism.io)
 
 Given a number, find the sum of all the unique multiples of particular numbers up to
